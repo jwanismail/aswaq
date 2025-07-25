@@ -6,7 +6,7 @@ interface ImportMetaEnv {
   readonly MODE: string;
 }
 
-interface ImportMeta {
+declare interface ImportMeta {
   readonly env: ImportMetaEnv;
 }
 
