@@ -1,0 +1,25 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="240" height="60" rx="8" fill="#FFC107"/>
+  
+  <!-- Shopping Cart Icon -->
+  <g transform="translate(15, 12)">
+    <!-- Cart Body -->
+    <path d="M5 8h24l-2 16H7L5 8z" fill="none" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cart Handle -->
+    <path d="M1 4h4l2 4" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Cart Wheels -->
+    <circle cx="12" cy="32" r="2.5" fill="#000000"/>
+    <circle cx="23" cy="32" r="2.5" fill="#000000"/>
+    <!-- Cart Lines -->
+    <line x1="10" y1="12" x2="25" y2="12" stroke="#000000" stroke-width="1.5"/>
+    <line x1="9" y1="16" x2="24" y2="16" stroke="#000000" stroke-width="1.5"/>
+    <line x1="8" y1="20" x2="23" y2="20" stroke="#000000" stroke-width="1.5"/>
+  </g>
+  
+  <!-- ASWAQ Text -->
+  <text x="65" y="25" font-family="Arial Black, sans-serif" font-size="18" font-weight="900" fill="#000000" letter-spacing="1px">ASWAQ</text>
+  
+  <!-- Arabic Text -->
+  <text x="65" y="42" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#333333">أسـواق</text>
+</svg> 
